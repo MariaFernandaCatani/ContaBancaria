@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class ContaEspecial {
+public class ContaEspecial extends ContaBancaria{
+
+    private float limite;
+
+    public void saldoComLimite(){
+    }
+
 }

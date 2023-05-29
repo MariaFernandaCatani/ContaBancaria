@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class ContaPoupanca {
+public class ContaPoupanca extends ContaBancaria {
+
+    private Integer diasRendimento;
+
+    public void calcularNovoSaldo(){
+    }
+
 }
